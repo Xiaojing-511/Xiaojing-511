@@ -16,7 +16,9 @@
 
 ## ⭐ 精选项目
 
-日常使用频率最高的作品。
+日常使用频率最高、最完整的作品。
+
+☕ [**coffee-order-wechat-miniprogram**](https://github.com/Xiaojing-511/coffee-order-wechat-miniprogram) - 多店铺点单 SaaS：一个云环境承载多家咖啡店，商家白名单（openid）开通，扫码点单 + 前台代客下单双模式，订单全流程管理（接单 → 制作 → 核销），腾讯云 TCB 云开发，[SaaS 售卖主页](https://crazy-coffee-landing-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com/)
 
 🧩 [**wordwise-extension**](https://github.com/Xiaojing-511/wordwise-extension) - 划词翻译助手：中英互译、网络翻译、点击朗读、已学习标记（Manifest V3）
 
@@ -56,7 +58,7 @@
 
 从「想做一个东西」到「真的能用」的日常项目。
 
-☕ [**coffee-order-wechat-miniprogram**](https://github.com/Xiaojing-511/coffee-order-wechat-miniprogram) - 饮品备忘录：个人饮品记录小程序，记录饮品名称、卡路里、口味偏好，统计消费习惯
+☕ [**coffee-order-wechat-miniprogram**](https://github.com/Xiaojing-511/coffee-order-wechat-miniprogram) - 多店铺点单 SaaS：微信小程序 + 腾讯云 TCB，支持多店铺入驻、扫码点单、前台代客下单、订单全流程管理（接单→制作→核销）、模拟支付（可无缝替换微信支付）
 
 💼 [**qiuzhidi-app**](https://github.com/Xiaojing-511/qiuzhidi-app) - 求职帝小程序
 
@@ -82,7 +84,7 @@
 
 ## 🧰 技术栈
 
-TypeScript · JavaScript · Vue 3 · React · Node.js · Manifest V3 浏览器扩展 · 微信小程序 · qiankun 微前端 · Vite · Coding Agent / AI 编程
+TypeScript · JavaScript · Vue 3 · React · Node.js · Manifest V3 浏览器扩展 · 微信小程序 · qiankun 微前端 · Vite · 腾讯云 TCB 云开发 · Coding Agent / AI 编程
 
 ---
 
