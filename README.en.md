@@ -16,7 +16,9 @@ A browser extension that translates any text you select on any webpage: bilingua
 
 ## ⭐ Featured projects
 
-The ones I use every day.
+The most complete, frequently-used works.
+
+☕ [**coffee-order-wechat-miniprogram**](https://github.com/Xiaojing-511/coffee-order-wechat-miniprogram) - Multi-store ordering SaaS: one cloud environment powers multiple coffee shops, merchant whitelist (openid) onboarding, scan-to-order + staff-assisted ordering, full order lifecycle (accept → make → redeem), Tencent Cloud TCB, [SaaS landing page](https://crazy-coffee-landing-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com/)
 
 🧩 [**wordwise-extension**](https://github.com/Xiaojing-511/wordwise-extension) - Selection translator: EN↔ZH + web translation, read-aloud, "learned N times" markers (Manifest V3)
 
@@ -56,7 +58,7 @@ Hard-won experience from collaborating with coding agents.
 
 Everyday projects that went from "I want to build this" to "it actually works".
 
-☕ [**coffee-order-wechat-miniprogram**](https://github.com/Xiaojing-511/coffee-order-wechat-miniprogram) - Drink Memo: a personal drink-recording mini program tracking names, calories and taste preferences
+☕ [**coffee-order-wechat-miniprogram**](https://github.com/Xiaojing-511/coffee-order-wechat-miniprogram) - Multi-store ordering SaaS: WeChat Mini Program + Tencent Cloud TCB, multi-store onboarding, scan-to-order, staff-assisted ordering, full order lifecycle (accept → make → redeem), simulated payment (swap in WeChat Pay seamlessly)
 
 💼 [**qiuzhidi-app**](https://github.com/Xiaojing-511/qiuzhidi-app) - Qiuzhidi (Job Hunter) mini program
 
@@ -82,7 +84,7 @@ Footprints along the way: graduation project, full-stack integration, micro-fron
 
 ## 🧰 Tech Stack
 
-TypeScript · JavaScript · Vue 3 · React · Node.js · Manifest V3 Browser Extensions · WeChat Mini Programs · qiankun Micro-frontends · Vite · Coding Agents / AI-assisted programming
+TypeScript · JavaScript · Vue 3 · React · Node.js · Manifest V3 Browser Extensions · WeChat Mini Programs · qiankun Micro-frontends · Vite · Tencent Cloud TCB · Coding Agents / AI-assisted programming
 
 ---
 
