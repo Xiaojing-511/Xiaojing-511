@@ -8,7 +8,11 @@ Front-end developer and a dedicated **vibe coder**. I believe code is a medium o
 
 ## ☕ Flagship: Crazy Coffee — Ordering SaaS for Coffee Shops
 
-[![Crazy Coffee landing page](https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/coffee-landing-hero.jpg)](https://crazy-coffee-landing-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com/)
+<p align="center">
+  <a href="https://crazy-coffee-landing-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com/">
+    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/coffee-landing-hero.jpg" width="600" alt="Crazy Coffee landing page" />
+  </a>
+</p>
 
 > **Give every cup of coffee its own mini program.** One codebase, one cloud environment, powering multiple coffee shops — customers scan to order, staff accept → make → redeem from a mobile dashboard, ready out of the box.
 
