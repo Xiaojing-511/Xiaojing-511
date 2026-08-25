@@ -6,19 +6,24 @@ Front-end developer and a dedicated **vibe coder**. I believe code is a medium o
 
 ---
 
-## 🆕 New: WordWise — Selection Translator
+## ☕ Flagship: Crazy Coffee — Ordering SaaS for Coffee Shops
 
-A browser extension that translates any text you select on any webpage: bilingual EN↔ZH and web translation side by side, click-to-read-aloud, and repeated selections are auto-marked as "learned".
+[![Crazy Coffee landing page](https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/coffee-landing-hero.jpg)](https://crazy-coffee-landing-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com/)
 
-▶️ [**wordwise-extension**](https://github.com/Xiaojing-511/wordwise-extension): open-source Chrome / Edge extension (Manifest V3), free translation APIs, no keys required.
+> **Give every cup of coffee its own mini program.** One codebase, one cloud environment, powering multiple coffee shops — customers scan to order, staff accept → make → redeem from a mobile dashboard, ready out of the box.
+
+- 🏪 **Multi-store SaaS**: one cloud environment powers many shops; merchant whitelist (openid) onboarding, turnkey
+- 📱 **Two ordering modes**: customer scan-to-order / staff-assisted ordering, unified order center
+- ✅ **Full order lifecycle**: accept → make → redeem, real-time status sync
+- ☁️ **Tencent Cloud TCB**: cloud functions + database + storage, serverless and low-cost to launch
+- 💳 **Pay-ready**: built-in mock payment runs the whole flow; swap in WeChat Pay by replacing one action
+
+▶️ [**coffee-order-wechat-miniprogram**](https://github.com/Xiaojing-511/coffee-order-wechat-miniprogram) · source repo
+🌐 [**SaaS landing page**](https://crazy-coffee-landing-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com/) · live marketing site (scan the QR on the homepage to try ordering)
 
 ---
 
-## ⭐ Featured projects
-
-The most complete, frequently-used works.
-
-☕ [**coffee-order-wechat-miniprogram**](https://github.com/Xiaojing-511/coffee-order-wechat-miniprogram) - Multi-store ordering SaaS: one cloud environment powers multiple coffee shops, merchant whitelist (openid) onboarding, scan-to-order + staff-assisted ordering, full order lifecycle (accept → make → redeem), Tencent Cloud TCB, [SaaS landing page](https://crazy-coffee-landing-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com/)
+## ⭐ More featured projects
 
 🧩 [**wordwise-extension**](https://github.com/Xiaojing-511/wordwise-extension) - Selection translator: EN↔ZH + web translation, read-aloud, "learned N times" markers (Manifest V3)
 
@@ -57,8 +62,6 @@ Hard-won experience from collaborating with coding agents.
 ## 🛠️ Mini Programs & Personal Projects
 
 Everyday projects that went from "I want to build this" to "it actually works".
-
-☕ [**coffee-order-wechat-miniprogram**](https://github.com/Xiaojing-511/coffee-order-wechat-miniprogram) - Multi-store ordering SaaS: WeChat Mini Program + Tencent Cloud TCB, multi-store onboarding, scan-to-order, staff-assisted ordering, full order lifecycle (accept → make → redeem), simulated payment (swap in WeChat Pay seamlessly)
 
 💼 [**qiuzhidi-app**](https://github.com/Xiaojing-511/qiuzhidi-app) - Qiuzhidi (Job Hunter) mini program
 
