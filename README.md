@@ -6,19 +6,24 @@
 
 ---
 
-## 🆕 最新：WordWise 划词翻译助手
+## ☕ 旗舰项目：疯狂咖啡 · 饮品点单 SaaS
 
-在任意网页上**划词即译**的浏览器扩展：中英互译 + 网络翻译双源对照，点击朗读，重复选词自动标记「已学习」，边读边学。
+[![疯狂咖啡官网首页](https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/coffee-landing-hero.jpg)](https://crazy-coffee-landing-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com/)
 
-▶️ [**wordwise-extension**](https://github.com/Xiaojing-511/wordwise-extension)：开源 Chrome / Edge 扩展（Manifest V3），免费翻译接口、无需 API Key。
+> **让每一杯咖啡，都拥有自己的小程序。** 一套代码、一个云环境，承载多家咖啡店的多店铺点单 SaaS——顾客扫码即点单，商家在手机后台接单、制作、核销，全流程开箱即用。
+
+- 🏪 **多店铺 SaaS**：一个云环境承载多家店，商家白名单（openid）一键开通，随开随用
+- 📱 **双模式点单**：顾客扫码自点 / 前台代客下单，订单统一管理
+- ✅ **订单全流程**：接单 → 制作 → 核销，状态实时同步
+- ☁️ **腾讯云 TCB 云开发**：云函数 + 云数据库 + 云存储，无服务器架构，低成本快速上线
+- 💳 **支付即插即用**：内置模拟支付跑通全流程，接入微信支付只需替换一个动作
+
+▶️ [**coffee-order-wechat-miniprogram**](https://github.com/Xiaojing-511/coffee-order-wechat-miniprogram) · 开源仓库
+🌐 [**SaaS 售卖官网**](https://crazy-coffee-landing-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com/) · 宣传落地页（首页扫码即可体验点单）
 
 ---
 
-## ⭐ 精选项目
-
-日常使用频率最高、最完整的作品。
-
-☕ [**coffee-order-wechat-miniprogram**](https://github.com/Xiaojing-511/coffee-order-wechat-miniprogram) - 多店铺点单 SaaS：一个云环境承载多家咖啡店，商家白名单（openid）开通，扫码点单 + 前台代客下单双模式，订单全流程管理（接单 → 制作 → 核销），腾讯云 TCB 云开发，[SaaS 售卖主页](https://crazy-coffee-landing-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com/)
+## ⭐ 更多精选项目
 
 🧩 [**wordwise-extension**](https://github.com/Xiaojing-511/wordwise-extension) - 划词翻译助手：中英互译、网络翻译、点击朗读、已学习标记（Manifest V3）
 
@@ -57,8 +62,6 @@
 ## 🛠️ 小程序 & 个人项目
 
 从「想做一个东西」到「真的能用」的日常项目。
-
-☕ [**coffee-order-wechat-miniprogram**](https://github.com/Xiaojing-511/coffee-order-wechat-miniprogram) - 多店铺点单 SaaS：微信小程序 + 腾讯云 TCB，支持多店铺入驻、扫码点单、前台代客下单、订单全流程管理（接单→制作→核销）、模拟支付（可无缝替换微信支付）
 
 💼 [**qiuzhidi-app**](https://github.com/Xiaojing-511/qiuzhidi-app) - 求职帝小程序
 
