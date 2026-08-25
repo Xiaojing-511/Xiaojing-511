@@ -8,7 +8,11 @@
 
 ## ☕ 旗舰项目：疯狂咖啡 · 饮品点单 SaaS
 
-[![疯狂咖啡官网首页](https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/coffee-landing-hero.jpg)](https://crazy-coffee-landing-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com/)
+<p align="center">
+  <a href="https://crazy-coffee-landing-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com/">
+    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/coffee-landing-hero.jpg" width="600" alt="疯狂咖啡官网首页" />
+  </a>
+</p>
 
 > **让每一杯咖啡，都拥有自己的小程序。** 一套代码、一个云环境，承载多家咖啡店的多店铺点单 SaaS——顾客扫码即点单，商家在手机后台接单、制作、核销，全流程开箱即用。
 
