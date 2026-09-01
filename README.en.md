@@ -6,7 +6,7 @@ Front-end developer and a dedicated **vibe coder**. I believe code is a medium o
 
 ---
 
-## ☕ Flagship: Crazy Coffee — Ordering SaaS for Coffee Shops
+## ☕ Crazy Coffee — Ordering SaaS for Coffee Shops
 
 <p align="center">
   <a href="https://crazy-coffee-landing-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com/">
