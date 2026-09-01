@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://crazy-coffee-landing-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com/">
-    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/coffee-landing-hero.jpg" width="600" alt="疯狂咖啡官网首页" />
+    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/coffee-landing-hero.jpg" width="300" alt="疯狂咖啡官网首页" />
   </a>
 </p>
 
