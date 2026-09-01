@@ -51,6 +51,8 @@
 
 ## ⭐ 更多精选项目
 
+📝 [**footprint-daily**](https://github.com/Xiaojing-511/footprint-daily) - 每日足迹日报：ActivityWatch + LLM 每天 21:00 自动生成当日「学了什么 / 做了什么 / 思路延伸 / 效率建议」写入 Notion（零依赖 Node、本地聚合、隐私优先）
+
 🧩 [**wordwise-extension**](https://github.com/Xiaojing-511/wordwise-extension) - 划词翻译助手：中英互译、网络翻译、点击朗读、已学习标记（Manifest V3）
 
 📚 [**reading-list-extension**](https://github.com/Xiaojing-511/reading-list-extension) - 阅读列表插件：一键把任意网页 / 链接加入「稍后读」，数据纯本地存储
