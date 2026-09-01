@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://xiaojing-511.github.io/your-life-story/">
-    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/your-life-story-hero.jpg" width="640" alt="your life story 游戏实机画面" />
+    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/your-life-story-hero.jpg" width="340" alt="your life story 游戏实机画面" />
   </a>
 </p>
 
