@@ -6,7 +6,7 @@
 
 ---
 
-## ☕ 旗舰项目：疯狂咖啡 · 饮品点单 SaaS
+## ☕ 疯狂咖啡 · 饮品点单 SaaS
 
 <p align="center">
   <a href="https://crazy-coffee-landing-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com/">
