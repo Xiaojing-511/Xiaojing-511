@@ -51,6 +51,8 @@ Front-end developer and a dedicated **vibe coder**. I believe code is a medium o
 
 ## ⭐ More featured projects
 
+📝 [**footprint-daily**](https://github.com/Xiaojing-511/footprint-daily) - Daily footprint report: ActivityWatch + LLM auto-generates a daily review (learned / practiced / idea chains / efficiency tips) into Notion at 21:00 — zero-dependency Node, local-first, privacy-friendly
+
 🧩 [**wordwise-extension**](https://github.com/Xiaojing-511/wordwise-extension) - Selection translator: EN↔ZH + web translation, read-aloud, "learned N times" markers (Manifest V3)
 
 📚 [**reading-list-extension**](https://github.com/Xiaojing-511/reading-list-extension) - Reading list: add any page / link to a "read later" list in one click; data stays local
