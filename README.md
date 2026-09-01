@@ -49,9 +49,21 @@
 
 ---
 
-## ⭐ 更多精选项目
+## 📝 footprint-daily · 每日足迹日报
 
-📝 [**footprint-daily**](https://github.com/Xiaojing-511/footprint-daily) - 每日足迹日报：ActivityWatch + LLM 每天 21:00 自动生成当日「学了什么 / 做了什么 / 思路延伸 / 效率建议」写入 Notion（零依赖 Node、本地聚合、隐私优先）
+> **把一天的学习与思考，自动沉淀成可检索的个人档案。** 基于 ActivityWatch + LLM（默认 DeepSeek），每天 21:00 自动生成当日「足迹」日报并写入 Notion——今天学习了什么、实践了什么、从一个小问题如何延伸到其他问题、效率与学习质量如何优化。零第三方依赖（Node 18+ 内置 fetch）、本地聚合、密钥不入库。
+
+- 📊 **客观数据驱动**：从 ActivityWatch 拉取当日时间线，本地聚合应用 / 内容 / 会话 / 活跃时长；数据面板本地计算，不靠 AI 编造
+- 🧩 **思路延伸还原**：LLM 根据带时间戳的时间线，重建「小问题 → 延伸问题」的完整思考链条
+- 📝 **随手记零格式**：在 Notion 固定页面随手记，按创建时间自动归到当天
+- ⏰ **全自动沉淀**：macOS launchd / Linux cron 定时 21:00，错过自动补跑，按日期查重
+- 🔒 **隐私优先**：ActivityWatch 数据仅本地处理，只发送聚合文本给 LLM
+
+🔗 [**footprint-daily**](https://github.com/Xiaojing-511/footprint-daily) · 开源仓库
+
+---
+
+## ⭐ 更多精选项目
 
 🧩 [**wordwise-extension**](https://github.com/Xiaojing-511/wordwise-extension) - 划词翻译助手：中英互译、网络翻译、点击朗读、已学习标记（Manifest V3）
 
