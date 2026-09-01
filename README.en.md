@@ -6,6 +6,28 @@ Front-end developer and a dedicated **vibe coder**. I believe code is a medium o
 
 ---
 
+## 🎮 your life story · 林间拾忆
+
+<p align="center">
+  <a href="https://xiaojing-511.github.io/your-life-story/">
+    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/your-life-story-hero.jpg" width="640" alt="your life story gameplay screenshot" />
+  </a>
+</p>
+
+> **Walk your life like a game.** A pure front-end walking narrative game — AI turns your real life stories into a personal journey; walk along a forest path, pick up scattered memories one by one... to be continued. Zero dependencies, zero backend, double-click to play — built end-to-end with a coding agent.
+
+- 🤖 **AI-written life stories**: GLM (`glm-4-flash`, free) turns spoken material into an age-ordered narrative; fixed JSON Schema output, controlled emoji / colors, automatic retry on malformed output
+- 🎙️ **Voice input**: native browser speech recognition — just tell your story, AI writes it
+- 🧭 **Innovative narrative gameplay**: your "life" becomes a walkable path — pick up roadside items to read memories, typewriter narration, procedural Web Audio BGM & wind ambience, zero audio assets
+- 🖼️ **Multimedia memories**: attach photos / short videos to each memory (auto-compressed, stored locally)
+- 🔗 **Shareable as a game**: story compressed into the link (native `CompressionStream`) — open and play, read-only experience
+- 🌍 **Bilingual · fully local**: ZH/EN UI, male/female characters; all data stays in your browser (localStorage + IndexedDB), privacy first
+
+▶️ [**your-life-story**](https://github.com/Xiaojing-511/your-life-story) · source repo
+🕹️ [**Play online**](https://xiaojing-511.github.io/your-life-story/) · hosted on GitHub Pages
+
+---
+
 ## ☕ Crazy Coffee — Ordering SaaS for Coffee Shops
 
 <p align="center">
@@ -91,7 +113,7 @@ Footprints along the way: graduation project, full-stack integration, micro-fron
 
 ## 🧰 Tech Stack
 
-TypeScript · JavaScript · Vue 3 · React · Node.js · Manifest V3 Browser Extensions · WeChat Mini Programs · qiankun Micro-frontends · Vite · Tencent Cloud TCB · Coding Agents / AI-assisted programming
+TypeScript · JavaScript · Vue 3 · React · Node.js · Manifest V3 Browser Extensions · WeChat Mini Programs · qiankun Micro-frontends · Vite · Tencent Cloud TCB · Canvas Games / Web Audio · Coding Agents / AI-assisted programming
 
 ---
 

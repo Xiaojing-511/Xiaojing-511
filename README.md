@@ -6,6 +6,28 @@
 
 ---
 
+## 🎮 your life story · 林间拾忆
+
+<p align="center">
+  <a href="https://xiaojing-511.github.io/your-life-story/">
+    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/your-life-story-hero.jpg" width="640" alt="your life story 游戏实机画面" />
+  </a>
+</p>
+
+> **把人生经历，走成一场游戏。** 一款纯前端的步行叙事小游戏——AI 把你真实的人生素材生成专属故事，你沿着林间小路拾起散落的回忆，走到尽头，未完待续。零依赖、零后端、双击即玩，整个项目由 Coding Agent 协作构建。
+
+- 🤖 **AI 生成人生故事**：接入智谱 GLM（`glm-4-flash` 免费）把口述素材整理成按年龄排列的叙事；固定 JSON Schema 输出、emoji / 颜色受控、输出不合规自动重试，AI 生成质量全程可控
+- 🎙️ **语音输入素材**：浏览器原生语音识别，边说边生成，不用打字
+- 🧭 **创新的叙事玩法**：「人生」被做成一条可以走进去的路——拾起路边物品读回忆、打字机叙事、程序化 Web Audio 背景音乐与风声音效，零音频素材文件
+- 🖼️ **回忆多媒体**：每段回忆可配照片 / 小视频（照片自动压缩、本地存储）
+- 🔗 **分享即游戏**：故事压缩进链接（原生 `CompressionStream`），对方打开即玩，只读体验
+- 🌍 **多语言 · 纯本地**：中英界面、男女双角色；数据全部存本机（localStorage + IndexedDB），隐私优先
+
+▶️ [**your-life-story**](https://github.com/Xiaojing-511/your-life-story) · 开源仓库
+🕹️ [**在线试玩**](https://xiaojing-511.github.io/your-life-story/) · GitHub Pages 部署
+
+---
+
 ## ☕ 疯狂咖啡 · 饮品点单 SaaS
 
 <p align="center">
@@ -91,7 +113,7 @@
 
 ## 🧰 技术栈
 
-TypeScript · JavaScript · Vue 3 · React · Node.js · Manifest V3 浏览器扩展 · 微信小程序 · qiankun 微前端 · Vite · 腾讯云 TCB 云开发 · Coding Agent / AI 编程
+TypeScript · JavaScript · Vue 3 · React · Node.js · Manifest V3 浏览器扩展 · 微信小程序 · qiankun 微前端 · Vite · 腾讯云 TCB 云开发 · Canvas 游戏 / Web Audio · Coding Agent / AI 编程
 
 ---
 
