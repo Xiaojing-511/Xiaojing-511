@@ -10,7 +10,7 @@ Front-end developer and a dedicated **vibe coder**. I believe code is a medium o
 
 <p align="center">
   <a href="https://xiaojing-511.github.io/your-life-story/">
-    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/your-life-story-hero.jpg" width="640" alt="your life story gameplay screenshot" />
+    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/your-life-story-hero.jpg" width="340" alt="your life story gameplay screenshot" />
   </a>
 </p>
 
