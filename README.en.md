@@ -49,9 +49,21 @@ Front-end developer and a dedicated **vibe coder**. I believe code is a medium o
 
 ---
 
-## ⭐ More featured projects
+## 📝 footprint-daily · Daily Footprint Report
 
-📝 [**footprint-daily**](https://github.com/Xiaojing-511/footprint-daily) - Daily footprint report: ActivityWatch + LLM auto-generates a daily review (learned / practiced / idea chains / efficiency tips) into Notion at 21:00 — zero-dependency Node, local-first, privacy-friendly
+> **Turn a day of learning and thinking into a searchable personal archive — automatically.** Built on ActivityWatch + LLM (DeepSeek by default), it generates a daily "footprint" report at 21:00 and writes it into Notion: what you learned, what you practiced, how a small idea branched into other questions, and how to improve efficiency & learning quality. Zero third-party dependencies (Node 18+ built-in fetch), local-first aggregation, secrets never committed.
+
+- 📊 **Data-driven**: pulls the day's timeline from ActivityWatch and aggregates apps / contents / sessions locally; metrics computed locally, not hallucinated by AI
+- 🧩 **Idea-chain reconstruction**: LLM rebuilds the "small idea → follow-up questions" chain from the timestamped timeline
+- 📝 **Zero-format notes**: jot in a fixed Notion page; auto-attributed to the day by creation time
+- ⏰ **Fully automatic**: launchd (macOS) / cron (Linux) at 21:00, auto catch-up, per-date dedup
+- 🔒 **Privacy-first**: ActivityWatch data processed locally; only aggregated text goes to the LLM
+
+🔗 [**footprint-daily**](https://github.com/Xiaojing-511/footprint-daily) · open source
+
+---
+
+## ⭐ More featured projects
 
 🧩 [**wordwise-extension**](https://github.com/Xiaojing-511/wordwise-extension) - Selection translator: EN↔ZH + web translation, read-aloud, "learned N times" markers (Manifest V3)
 
