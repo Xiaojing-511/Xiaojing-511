@@ -9,7 +9,7 @@ Front-end developer and a dedicated **vibe coder**. I believe code is a medium o
 ## 🎮 your life story · 林间拾忆
 
 <p align="center">
-  <a href="https://xiaojing-511.github.io/your-life-story/">
+  <a href="https://your-life-story-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com">
     <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/your-life-story-hero.jpg" width="340" alt="your life story gameplay screenshot" />
   </a>
 </p>
@@ -26,7 +26,7 @@ Front-end developer and a dedicated **vibe coder**. I believe code is a medium o
 - 🌍 **Bilingual · fully local**: one-tap ZH/EN UI with remembered preference; all data stays in your browser (localStorage + IndexedDB), privacy first
 
 ▶️ [**your-life-story**](https://github.com/Xiaojing-511/your-life-story) · source repo
-🕹️ [**Play online**](https://xiaojing-511.github.io/your-life-story/) · hosted on GitHub Pages
+🕹️ [**Play online**](https://your-life-story-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com) · hosted on Tencent Cloud (CloudBase)
 
 ---
 
