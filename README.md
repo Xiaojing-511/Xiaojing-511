@@ -26,7 +26,8 @@
 - 🌍 **多语言 · 纯本地**：中英界面一键切换并记住偏好；数据全部存本机（localStorage + IndexedDB），隐私优先
 
 ▶️ [**your-life-story**](https://github.com/Xiaojing-511/your-life-story) · 开源仓库
-🕹️ [**在线试玩**](https://your-life-story-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com) · 腾讯云 CloudBase 部署
+🕹️ [**在线试玩**](https://your-life-story-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com) · 腾讯云 CloudBase（主部署 · 免备案）
+🔗 [**GitHub Pages 备用入口**](https://xiaojing-511.github.io/your-life-story/) · 备用部署
 
 ---
 

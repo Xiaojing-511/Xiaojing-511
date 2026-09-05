@@ -26,7 +26,8 @@ Front-end developer and a dedicated **vibe coder**. I believe code is a medium o
 - 🌍 **Bilingual · fully local**: one-tap ZH/EN UI with remembered preference; all data stays in your browser (localStorage + IndexedDB), privacy first
 
 ▶️ [**your-life-story**](https://github.com/Xiaojing-511/your-life-story) · source repo
-🕹️ [**Play online**](https://your-life-story-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com) · hosted on Tencent Cloud (CloudBase)
+🕹️ [**Play online**](https://your-life-story-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com) · Tencent CloudBase (primary, no ICP filing)
+🔗 [**GitHub Pages backup**](https://xiaojing-511.github.io/your-life-story/) · secondary deployment
 
 ---
 
