@@ -19,9 +19,11 @@ Front-end developer and a dedicated **vibe coder**. I believe code is a medium o
 - 🤖 **AI-written life stories**: GLM (`glm-4-flash`, free) turns spoken material into an age-ordered narrative; fixed JSON Schema output, controlled emoji / colors, automatic retry on malformed output
 - 🎙️ **Voice input**: native browser speech recognition — just tell your story, AI writes it
 - 🧭 **Innovative narrative gameplay**: your "life" becomes a walkable path — pick up roadside items to read memories, typewriter narration, procedural Web Audio BGM & wind ambience, zero audio assets
-- 🖼️ **Multimedia memories**: attach photos / short videos to each memory (auto-compressed, stored locally)
-- 🔗 **Shareable as a game**: story compressed into the link (native `CompressionStream`) — open and play, read-only experience
-- 🌍 **Bilingual · fully local**: ZH/EN UI, male/female characters; all data stays in your browser (localStorage + IndexedDB), privacy first
+- ✨ **Dual-mode creator**: AI generation (free GLM key) and manual writing switch anytime with a smart default — no setup needed, non-tech users can start writing right away
+- 🖼️ **Multimedia memories**: attach photos / short videos to each memory (auto-compressed, stored locally); the built-in journey ships with illustrations and a short clip
+- 🎵 **Per-story character & BGM**: each story picks its own character (👦 / 👧) and optional BGM, auto-enabled when playing; falls back to the built-in lyrical BGM
+- 🔗 **Share as a game — two tiers**: the text version packs the story into the link and opens to play; pair with CloudBase for the **full cloud share** — photos / videos / BGM bundled, short-ID link, open-and-play read-only experience, revocable anytime
+- 🌍 **Bilingual · fully local**: one-tap ZH/EN UI with remembered preference; all data stays in your browser (localStorage + IndexedDB), privacy first
 
 ▶️ [**your-life-story**](https://github.com/Xiaojing-511/your-life-story) · source repo
 🕹️ [**Play online**](https://xiaojing-511.github.io/your-life-story/) · hosted on GitHub Pages
