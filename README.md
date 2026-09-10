@@ -9,7 +9,7 @@
 ## 🎮 your life story · 林间拾忆
 
 <p align="center">
-  <a href="https://your-life-story-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com">
+  <a href="https://game.rachelzhang.cn">
     <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/your-life-story-hero.jpg" width="340" alt="your life story 游戏实机画面" />
   </a>
 </p>
@@ -26,8 +26,8 @@
 - 🌍 **多语言 · 纯本地**：中英界面一键切换并记住偏好；数据全部存本机（localStorage + IndexedDB），隐私优先
 
 ▶️ [**your-life-story**](https://github.com/Xiaojing-511/your-life-story) · 开源仓库
-🕹️ [**在线试玩**](https://your-life-story-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com) · 腾讯云 CloudBase（主部署 · 免备案）
-🔗 [**GitHub Pages 备用入口**](https://xiaojing-511.github.io/your-life-story/) · 备用部署
+🕹️ [**在线试玩**](https://game.rachelzhang.cn) · 个人域名
+☁️ [**CloudBase 云端版**](https://your-life-story-cloud1-7gjfr85i3b664708.webapps.tcloudbase.com) · 含云端分享
 
 ---
 
