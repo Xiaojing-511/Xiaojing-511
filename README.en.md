@@ -6,6 +6,26 @@ Front-end developer and a dedicated **vibe coder**. I believe code is a medium o
 
 ---
 
+## 🐱 A Cat's Travels
+
+<p align="center">
+  <a href="https://github.com/Xiaojing-511/travel-cat">
+    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/travel-cat-hero.jpg" width="340" alt="A Cat's Travels postcard: first-person journal by Erhai Lake" />
+  </a>
+</p>
+
+> **A cat that leaves home on its own.** You keep the bowls filled; it naps, idles, waits — and sometimes slings on a tiny bag, walks out, and later drops a first-person postcard into the album.
+
+- 🏠 **Life at home**: feed food & water, watch the cat sleep and idle, see the travel countdown — you refill, it decides whether to go
+- ✈️ **Travels on its own**: with enough food and water it slips out for hours to a couple of days; time keeps moving even if you close the mini program
+- 📮 **Postcard journals**: it comes back with a location, a travel photo, and a short first-person note — one quiet moment, nothing touristic
+- 🎬 **n8n batch images to the bucket**: travel photos are generated in an n8n workflow and uploaded to cloud object storage; the album reads them by file ID
+- ☁️ **Cloud-backed timeline**: Tencent Cloud TCB stores per-user state and postcards; a cloud function catches up the timeline; cache still works offline
+
+▶️ [**travel-cat**](https://github.com/Xiaojing-511/travel-cat) · source repo
+
+---
+
 ## 🎮 your life story · 林间拾忆
 
 <p align="center">
@@ -106,6 +126,8 @@ Hard-won experience from collaborating with coding agents.
 
 Everyday projects that went from "I want to build this" to "it actually works".
 
+🐱 [**travel-cat**](https://github.com/Xiaojing-511/travel-cat) - A Cat's Travels: feed a cat, wait for it to come home with a postcard (n8n batch-generates images into object storage)
+
 💼 [**qiuzhidi-app**](https://github.com/Xiaojing-511/qiuzhidi-app) - Qiuzhidi (Job Hunter) mini program
 
 🎬 [**mobile-media**](https://github.com/Xiaojing-511/mobile-media) - A mobile app combining series & books browsing, music player and an AI chatbot
@@ -130,7 +152,7 @@ Footprints along the way: graduation project, full-stack integration, micro-fron
 
 ## 🧰 Tech Stack
 
-TypeScript · JavaScript · Vue 3 · React · Node.js · Manifest V3 Browser Extensions · WeChat Mini Programs · qiankun Micro-frontends · Vite · Tencent Cloud TCB · Canvas Games / Web Audio · Coding Agents / AI-assisted programming
+TypeScript · JavaScript · Vue 3 · React · Node.js · Manifest V3 Browser Extensions · WeChat Mini Programs · qiankun Micro-frontends · Vite · Tencent Cloud TCB · n8n · Canvas Games / Web Audio · Coding Agents / AI-assisted programming
 
 ---
 
