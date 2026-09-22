@@ -2,15 +2,15 @@
 
 **中文（默认）** · [English](README.en.md)
 
-前端开发工程师，也是 **vibe coding** 的忠实实践者。我始终相信「代码是自我表达的一种媒介」——借助 Coding Agent 的帮助，把一个个想法变成真正能用的产品：浏览器插件、DSH 插件、Agent Skills、微信小程序……持续捣鼓，持续发布。
+AI 全栈工程师。我始终相信「代码是自我表达的一种媒介」——借助 Coding Agent 的帮助，把一个个想法变成真正能用的产品：浏览器插件、DSH 插件、Agent Skills、微信小程序……持续捣鼓，持续发布。
 
 ---
 
-## 🐱 一只猫的旅行
+## 🐱 旅行小咪 · 微信小程序
 
 <p align="center">
   <a href="https://github.com/Xiaojing-511/travel-cat">
-    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/travel-cat-hero.jpg" width="340" alt="一只猫的旅行明信片：洱海边第一人称手记" />
+    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/travel-cat-hero.jpg" width="340" alt="旅行小咪明信片：洱海边第一人称手记" />
   </a>
 </p>
 
@@ -126,7 +126,7 @@
 
 从「想做一个东西」到「真的能用」的日常项目。
 
-🐱 [**travel-cat**](https://github.com/Xiaojing-511/travel-cat) - 一只猫的旅行：喂养猫，等它自己出门寄回明信片（n8n 批量产图并入库）
+🐱 [**旅行小咪**](https://github.com/Xiaojing-511/travel-cat) - 微信小程序：喂养猫，等它自己出门寄回明信片（n8n 批量产图并入库）
 
 💼 [**qiuzhidi-app**](https://github.com/Xiaojing-511/qiuzhidi-app) - 求职帝小程序
 

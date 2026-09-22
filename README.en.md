@@ -2,15 +2,15 @@
 
 **English** · [中文（默认）](README.md)
 
-Front-end developer and a dedicated **vibe coder**. I believe code is a medium of self-expression — with the help of coding agents, I turn ideas into real, usable products: browser extensions, DSH plugins, agent skills, WeChat mini programs... always building, always shipping.
+AI full-stack engineer. I believe code is a medium of self-expression — with the help of coding agents, I turn ideas into real, usable products: browser extensions, DSH plugins, agent skills, WeChat mini programs... always building, always shipping.
 
 ---
 
-## 🐱 A Cat's Travels
+## 🐱 旅行小咪 · WeChat Mini Program
 
 <p align="center">
   <a href="https://github.com/Xiaojing-511/travel-cat">
-    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/travel-cat-hero.jpg" width="340" alt="A Cat's Travels postcard: first-person journal by Erhai Lake" />
+    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/travel-cat-hero.jpg" width="340" alt="旅行小咪 postcard: first-person journal by Erhai Lake" />
   </a>
 </p>
 
@@ -126,7 +126,7 @@ Hard-won experience from collaborating with coding agents.
 
 Everyday projects that went from "I want to build this" to "it actually works".
 
-🐱 [**travel-cat**](https://github.com/Xiaojing-511/travel-cat) - A Cat's Travels: feed a cat, wait for it to come home with a postcard (n8n batch-generates images into object storage)
+🐱 [**旅行小咪**](https://github.com/Xiaojing-511/travel-cat) - WeChat mini program: feed a cat, wait for it to come home with a postcard (n8n batch-generates images into object storage)
 
 💼 [**qiuzhidi-app**](https://github.com/Xiaojing-511/qiuzhidi-app) - Qiuzhidi (Job Hunter) mini program
 
