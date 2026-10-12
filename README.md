@@ -22,6 +22,12 @@ AI 全栈工程师。我始终相信「代码是自我表达的一种媒介」�
 - 🎬 **n8n 批量产图入库**：旅行照片由 n8n workflow 批量生成，并自动上传云存储桶，相册直接走 fileID
 - ☁️ **云开发多用户时间线**：腾讯云 TCB 按用户存状态与明信片，云函数追赶时间线，无网也能看缓存
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/travel-cat-miniprogram-code.png" width="190" alt="旅行小咪微信小程序码" />
+  <br />
+  <sub>微信扫码体验「旅行小咪」</sub>
+</p>
+
 ▶️ [**travel-cat**](https://github.com/Xiaojing-511/travel-cat) · 开源仓库
 
 ---

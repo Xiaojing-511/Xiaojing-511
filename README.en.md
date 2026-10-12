@@ -22,6 +22,12 @@ AI full-stack engineer. I believe code is a medium of self-expression — with t
 - 🎬 **n8n batch images to the bucket**: travel photos are generated in an n8n workflow and uploaded to cloud object storage; the album reads them by file ID
 - ☁️ **Cloud-backed timeline**: Tencent Cloud TCB stores per-user state and postcards; a cloud function catches up the timeline; cache still works offline
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/travel-cat-miniprogram-code.png" width="190" alt="旅行小咪 WeChat mini program code" />
+  <br />
+  <sub>Scan in WeChat to try 旅行小咪</sub>
+</p>
+
 ▶️ [**travel-cat**](https://github.com/Xiaojing-511/travel-cat) · source repo
 
 ---
