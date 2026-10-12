@@ -10,8 +10,12 @@ AI full-stack engineer. I believe code is a medium of self-expression — with t
 
 <p align="center">
   <a href="https://github.com/Xiaojing-511/travel-cat">
-    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/travel-cat-hero.jpg" width="340" alt="旅行小咪 postcard: first-person journal by Erhai Lake" />
+    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/travel-cat-screenshot.jpg" width="210" alt="旅行小咪 mini program home screen" />
   </a>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/travel-cat-miniprogram-code.png" width="190" alt="旅行小咪 WeChat mini program code" />
+  <br />
+  <sub>App preview · Scan in WeChat to try 旅行小咪</sub>
 </p>
 
 > **A cat that leaves home on its own.** You keep the bowls filled; it naps, idles, waits — and sometimes slings on a tiny bag, walks out, and later drops a first-person postcard into the album.
@@ -21,12 +25,6 @@ AI full-stack engineer. I believe code is a medium of self-expression — with t
 - 📮 **Postcard journals**: it comes back with a location, a travel photo, and a short first-person note — one quiet moment, nothing touristic
 - 🎬 **n8n batch images to the bucket**: travel photos are generated in an n8n workflow and uploaded to cloud object storage; the album reads them by file ID
 - ☁️ **Cloud-backed timeline**: Tencent Cloud TCB stores per-user state and postcards; a cloud function catches up the timeline; cache still works offline
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/travel-cat-miniprogram-code.png" width="190" alt="旅行小咪 WeChat mini program code" />
-  <br />
-  <sub>Scan in WeChat to try 旅行小咪</sub>
-</p>
 
 ▶️ [**travel-cat**](https://github.com/Xiaojing-511/travel-cat) · source repo
 

@@ -10,8 +10,12 @@ AI 全栈工程师。我始终相信「代码是自我表达的一种媒介」�
 
 <p align="center">
   <a href="https://github.com/Xiaojing-511/travel-cat">
-    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/travel-cat-hero.jpg" width="340" alt="旅行小咪明信片：洱海边第一人称手记" />
+    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/travel-cat-screenshot.jpg" width="210" alt="旅行小咪小程序首页" />
   </a>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/travel-cat-miniprogram-code.png" width="190" alt="旅行小咪微信小程序码" />
+  <br />
+  <sub>项目界面 · 微信扫码体验「旅行小咪」</sub>
 </p>
 
 > **家里养着一只会自己出门的猫。** 你负责添粮添水，它在家睡觉、发呆、等你，偶尔背着小包出门，回来后往相册里塞一张第一人称手记。
@@ -21,12 +25,6 @@ AI 全栈工程师。我始终相信「代码是自我表达的一种媒介」�
 - 📮 **明信片手记**：回家后相册多一张定位、旅行照片和猫咪第一人称手记（短、克制、只写一个瞬间）
 - 🎬 **n8n 批量产图入库**：旅行照片由 n8n workflow 批量生成，并自动上传云存储桶，相册直接走 fileID
 - ☁️ **云开发多用户时间线**：腾讯云 TCB 按用户存状态与明信片，云函数追赶时间线，无网也能看缓存
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/travel-cat-miniprogram-code.png" width="190" alt="旅行小咪微信小程序码" />
-  <br />
-  <sub>微信扫码体验「旅行小咪」</sub>
-</p>
 
 ▶️ [**travel-cat**](https://github.com/Xiaojing-511/travel-cat) · 开源仓库
 
