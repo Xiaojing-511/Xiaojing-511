@@ -30,6 +30,20 @@ AI full-stack engineer. I believe code is a medium of self-expression — with t
 
 ---
 
+## 🍽️ 吃什么 · WeChat Mini Program
+
+> **Write down what you like. When you can't decide, the list already has an answer.** Dishes, takeout, lunch — each one a card. Flip through them, and if you still can't choose, draw one. The names roll for a second and land on something you wrote yourself.
+
+- 📋 **Separate lists**: cooking, takeout, and lunch stay apart; create, rename, delete, and the app remembers the list you last opened
+- 🖼️ **A card is a note**: a name, and a photo if you want one. Photos sit under a frosted label; text-only cards stay plain. Nine cards to a page
+- 🎲 **Draw one**: pick from the current list, with a rolling tick that stops on the result — draw again anytime
+- ☁️ **Cloud, per person**: lists, notes, and avatars live on Tencent Cloud TCB. New users get a copy of the sample lists; sample images are shared, so deleting your own note never removes them
+- 👤 **Profile**: WeChat avatar and nickname — today's notes, kept for a later you
+
+▶️ [**eatwhat**](https://github.com/Xiaojing-511/eatwhat) · source repo
+
+---
+
 ## 🎮 your life story · 林间拾忆
 
 <p align="center">
@@ -131,6 +145,8 @@ Hard-won experience from collaborating with coding agents.
 Everyday projects that went from "I want to build this" to "it actually works".
 
 🐱 [**旅行小咪**](https://github.com/Xiaojing-511/travel-cat) - WeChat mini program: feed a cat, wait for it to come home with a postcard (n8n batch-generates images into object storage)
+
+🍽️ [**吃什么**](https://github.com/Xiaojing-511/eatwhat) - WeChat mini program: keep lists of what you want to eat, and draw one when you can't decide
 
 💼 [**qiuzhidi-app**](https://github.com/Xiaojing-511/qiuzhidi-app) - Qiuzhidi (Job Hunter) mini program
 
