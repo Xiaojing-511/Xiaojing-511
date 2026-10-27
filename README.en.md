@@ -32,6 +32,18 @@ AI full-stack engineer. I believe code is a medium of self-expression — with t
 
 ## 🍽️ 吃什么 · WeChat Mini Program
 
+<p align="center">
+  <a href="https://github.com/Xiaojing-511/eatwhat">
+    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/eatwhat-home.png" width="210" alt="吃什么 mini program home screen" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/eatwhat-draw.png" width="210" alt="吃什么 draw result" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/eatwhat-miniprogram-code.jpg" width="190" alt="吃什么 WeChat mini program code" />
+  <br />
+  <sub>Home · draw result · Scan in WeChat to try 吃什么</sub>
+</p>
+
 > **Write down what you like. When you can't decide, the list already has an answer.** Dishes, takeout, lunch — each one a card. Flip through them, and if you still can't choose, draw one. The names roll for a second and land on something you wrote yourself.
 
 - 📋 **Separate lists**: cooking, takeout, and lunch stay apart; create, rename, delete, and the app remembers the list you last opened

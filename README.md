@@ -32,6 +32,18 @@ AI 全栈工程师。我始终相信「代码是自我表达的一种媒介」�
 
 ## 🍽️ 吃什么 · 微信小程序
 
+<p align="center">
+  <a href="https://github.com/Xiaojing-511/eatwhat">
+    <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/eatwhat-home.png" width="210" alt="吃什么小程序首页" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/eatwhat-draw.png" width="210" alt="吃什么抽取结果" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Xiaojing-511/Xiaojing-511/main/assets/eatwhat-miniprogram-code.jpg" width="190" alt="吃什么微信小程序码" />
+  <br />
+  <sub>首页 · 抽取结果 · 微信扫码体验「吃什么」</sub>
+</p>
+
 > **把喜欢的都记在这里，纠结时自有答案。** 菜、外卖、午饭，收成一张张卡片。翻着看，选不出来就抽一个——名字滚一秒，落在你自己写过的那一条上。
 
 - 📋 **多份清单**：做饭吃、外卖、午餐分开记；新建、重命名、删除，上次打开的清单会记住
