@@ -2,7 +2,23 @@
 
 **English** · [中文（默认）](README.md)
 
-AI full-stack engineer. I believe code is a medium of self-expression — with the help of coding agents, I turn ideas into real, usable products: browser extensions, DSH plugins, agent skills, WeChat mini programs... always building, always shipping.
+AI full-stack engineer. I believe code is a medium of self-expression — with the help of coding agents, I turn ideas into real, usable products: web apps, browser extensions, DSH plugins, agent skills, WeChat mini programs... always building, always shipping.
+
+---
+
+## 💬 评见 · Douyin Comment Analysis
+
+> **A comment export, read as the next thing worth filming.** Drop in a Douyin CSV or XLSX. Empty rows, replies, and rows without a comment ID come out first. What remains is sorted into needs, questions, complaints, and ideas — then shown as an overview, content opportunities, and the comments themselves.
+
+- 📥 **Clean before you trust it**: common column names are recognized, the rest can be mapped by hand. A video already in the library has to be deleted before it can be imported again
+- 🏷️ **Four labels**: explicit needs, common questions, negative feedback, content ideas. A fifth pass, at most three new categories, only when enough comments were left out
+- 💡 **Content opportunities**: highly liked comments cluster into topics and rank into pitches. Titles and shooting notes can be edited; counts and excerpts stay as computed
+- 🔎 **Back to the words**: filter comments by keyword, label, topic, and whether a pitch cites them. Export the report as Markdown or CSV
+- 🤖 **Judgment and checks stay apart**: DeepSeek places the video, labels comments, and drafts topics. Python counts, gates, and checks evidence. DSH calls the tools in order; the model's thinking text never reaches the page
+- ☁️ **Your library stays yours**: email-code login, comments, tasks, and reports on CloudBase, separated by account
+
+▶️ [**pingjian**](https://github.com/Xiaojing-511/pingjian) · source repo
+🌐 [**Open the app**](https://pingjian.rachelzhang.cn)
 
 ---
 
@@ -156,6 +172,8 @@ Hard-won experience from collaborating with coding agents.
 
 Everyday projects that went from "I want to build this" to "it actually works".
 
+💬 [**评见**](https://github.com/Xiaojing-511/pingjian) - Turn a Douyin comment export into an overview, content ideas, and a comment browser
+
 🐱 [**旅行小咪**](https://github.com/Xiaojing-511/travel-cat) - WeChat mini program: feed a cat, wait for it to come home with a postcard (n8n batch-generates images into object storage)
 
 🍽️ [**吃什么**](https://github.com/Xiaojing-511/eatwhat) - WeChat mini program: keep lists of what you want to eat, and draw one when you can't decide
@@ -184,7 +202,7 @@ Footprints along the way: graduation project, full-stack integration, micro-fron
 
 ## 🧰 Tech Stack
 
-TypeScript · JavaScript · Vue 3 · React · Node.js · Manifest V3 Browser Extensions · WeChat Mini Programs · qiankun Micro-frontends · Vite · Tencent Cloud TCB · n8n · Canvas Games / Web Audio · Coding Agents / AI-assisted programming
+TypeScript · JavaScript · Python · Vue 3 · React · FastAPI · Node.js · Manifest V3 Browser Extensions · WeChat Mini Programs · qiankun Micro-frontends · Vite · Tencent Cloud TCB · n8n · DeepSeek · Canvas Games / Web Audio · Coding Agents / AI-assisted programming
 
 ---
 

@@ -2,7 +2,23 @@
 
 **中文（默认）** · [English](README.en.md)
 
-AI 全栈工程师。我始终相信「代码是自我表达的一种媒介」——借助 Coding Agent 的帮助，把一个个想法变成真正能用的产品：浏览器插件、DSH 插件、Agent Skills、微信小程序……持续捣鼓，持续发布。
+AI 全栈工程师。我始终相信「代码是自我表达的一种媒介」——借助 Coding Agent 的帮助，把一个个想法变成真正能用的产品：Web 应用、浏览器插件、DSH 插件、Agent Skills、微信小程序……持续捣鼓，持续发布。
+
+---
+
+## 💬 评见 · 抖音评论分析
+
+> **一份评论表，读成下一条能拍的内容。** 把抖音导出的评论交进来。空的、回复楼中楼的、没有评论 ID 的先清掉。留下来的，按需求、问题、消极和灵感归好，再收成总览、内容机会和评论明细。
+
+- 📥 **导入先看清洗**：CSV / XLSX，常见列名自动认出，对不上再手动映射。同一条视频已在库里时，会请你先删掉旧的
+- 🏷️ **四类就够用**：明确需求、常见问题、消极反馈、内容灵感。没归进去的够多，才允许再补最多 3 个新类别
+- 💡 **内容机会**：高赞评论收成主题，按分数列出选题。题目和拍法可以改，条数和摘录改不了
+- 🔎 **回到原话**：评论明细按关键词、标签、主题筛选。报告导出 Markdown 或 CSV
+- 🤖 **判断和校验分开**：DeepSeek 做定位、分类和选题，Python 计数、设门禁、核对证据。DSH 按顺序调用工具，模型的思考文本不进页面
+- ☁️ **每人只看见自己的**：邮箱验证码登录，评论、任务和报告放在 CloudBase，按用户隔开
+
+▶️ [**pingjian**](https://github.com/Xiaojing-511/pingjian) · 开源仓库
+🌐 [**在线使用**](https://pingjian.rachelzhang.cn)
 
 ---
 
@@ -156,6 +172,8 @@ AI 全栈工程师。我始终相信「代码是自我表达的一种媒介」�
 
 从「想做一个东西」到「真的能用」的日常项目。
 
+💬 [**评见**](https://github.com/Xiaojing-511/pingjian) - 把抖音评论导出读成总览、内容机会和评论明细
+
 🐱 [**旅行小咪**](https://github.com/Xiaojing-511/travel-cat) - 微信小程序：喂养猫，等它自己出门寄回明信片（n8n 批量产图并入库）
 
 🍽️ [**吃什么**](https://github.com/Xiaojing-511/eatwhat) - 微信小程序：把想吃的记成清单，纠结时抽一个
@@ -184,7 +202,7 @@ AI 全栈工程师。我始终相信「代码是自我表达的一种媒介」�
 
 ## 🧰 技术栈
 
-TypeScript · JavaScript · Vue 3 · React · Node.js · Manifest V3 浏览器扩展 · 微信小程序 · qiankun 微前端 · Vite · 腾讯云 TCB 云开发 · n8n · Canvas 游戏 / Web Audio · Coding Agent / AI 编程
+TypeScript · JavaScript · Python · Vue 3 · React · FastAPI · Node.js · Manifest V3 浏览器扩展 · 微信小程序 · qiankun 微前端 · Vite · 腾讯云 TCB 云开发 · n8n · DeepSeek · Canvas 游戏 / Web Audio · Coding Agent / AI 编程
 
 ---
 
