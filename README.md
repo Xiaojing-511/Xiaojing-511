@@ -3,6 +3,7 @@
 **中文（默认）** · [English](README.en.md)
 
 AI 全栈工程师。我始终相信「代码是自我表达的一种媒介」——借助 Coding Agent 的帮助，把一个个想法变成真正能用的产品：Web 应用、浏览器插件、DSH 插件、Agent Skills、微信小程序……持续捣鼓，持续发布。
+个人主页：https://about-me-website-7qw.pages.dev/
 
 ---
 
