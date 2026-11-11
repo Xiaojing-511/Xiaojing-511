@@ -4,6 +4,8 @@
 
 AI full-stack engineer. I believe code is a medium of self-expression — with the help of coding agents, I turn ideas into real, usable products: web apps, browser extensions, DSH plugins, agent skills, WeChat mini programs... always building, always shipping.
 
+About Me: https://about-me-website-7qw.pages.dev/
+
 ---
 
 ## 💬 评见 · Douyin Comment Analysis
