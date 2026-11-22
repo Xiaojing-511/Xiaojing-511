@@ -74,6 +74,21 @@ About Me: https://about-me-website-7qw.pages.dev/
 
 ---
 
+## 🎙️ Relationship Advisor · Spoken-script assistant
+
+> **Turn one everyday reaction into a calm, concrete script that sounds like the creator.** A single-session advisor for short-video creators in relationship cognition — one scene, one mechanism, one example, one small step, plus a boundary line. Next.js + LangGraph, streaming replies, Postgres persistence, knowledge retrieval before each turn; web search and PDF export are called only when the model chooses.
+
+- 💬 **One ongoing session**: open the page and continue the same conversation; refresh loads history from the database, not the browser. Stop mid-generation and any text already shown is saved
+- 📚 **Retrieve before reply**: each send searches the `rag/` library, chunked by heading, with vectors in the same Postgres via pgvector; with rerank on, it recalls first and keeps the best passages for this turn
+- 🔍 **Search on demand**: the "web search" toggle is what exposes the search tool; the model decides whether this turn needs it. Without a key, the script still generates
+- 📄 **Export the script to PDF**: when asked, the model calls `export_pdf` and a download link appears under the bubble; a failed export does not drop the script already written
+- 🛡️ **Boundaries in the prompt**: the system prompt stays inside five relationship mechanisms and declines diagnosis, manipulation scripts, and stay-or-leave advice
+
+▶️ [**douyin-content-super-agent**](https://github.com/Xiaojing-511/douyin-content-super-agent) · source repo
+🌐 [**Try it**](http://82.156.15.201:3000) · deployed advisor
+
+---
+
 ## 🎮 your life story · 林间拾忆
 
 <p align="center">
@@ -176,6 +191,8 @@ Everyday projects that went from "I want to build this" to "it actually works".
 
 💬 [**评见**](https://github.com/Xiaojing-511/pingjian) - Turn a Douyin comment export into an overview, content ideas, and a comment browser
 
+🎙️ [**关系认知顾问**](https://github.com/Xiaojing-511/douyin-content-super-agent) - A single-session spoken-script advisor for relationship-cognition short videos
+
 🐱 [**旅行小咪**](https://github.com/Xiaojing-511/travel-cat) - WeChat mini program: feed a cat, wait for it to come home with a postcard (n8n batch-generates images into object storage)
 
 🍽️ [**吃什么**](https://github.com/Xiaojing-511/eatwhat) - WeChat mini program: keep lists of what you want to eat, and draw one when you can't decide
@@ -204,7 +221,7 @@ Footprints along the way: graduation project, full-stack integration, micro-fron
 
 ## 🧰 Tech Stack
 
-TypeScript · JavaScript · Python · Vue 3 · React · FastAPI · Node.js · Manifest V3 Browser Extensions · WeChat Mini Programs · qiankun Micro-frontends · Vite · Tencent Cloud TCB · n8n · DeepSeek · Canvas Games / Web Audio · Coding Agents / AI-assisted programming
+TypeScript · JavaScript · Python · Vue 3 · React · Next.js · FastAPI · Node.js · LangGraph · pgvector · Manifest V3 Browser Extensions · WeChat Mini Programs · qiankun Micro-frontends · Vite · Tencent Cloud TCB · n8n · DeepSeek · Canvas Games / Web Audio · Coding Agents / AI-assisted programming
 
 ---
 

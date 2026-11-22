@@ -74,6 +74,21 @@ AI 全栈工程师。我始终相信「代码是自我表达的一种媒介」�
 
 ---
 
+## 🎙️ 关系认知顾问 · 口播内容助手
+
+> **把一句日常相处反应，收成一段从容、具体、像本人会说的口播。** 给亲密关系认知类短视频创作者用的单会话顾问——一个画面、一个机制、一个例子、一小步，并带上一句边界。Next.js + LangGraph，流式回复、Postgres 持久化、对话前知识库检索，联网搜索和 PDF 导出由模型决定是否调用。
+
+- 💬 **单会话续写**：打开页面即续写同一段对话；刷新后历史来自数据库，不靠浏览器本地缓存。生成中可以停止，已经显示出来的半截回复会落库
+- 📚 **对话前检索**：发送前检索 `rag/` 资料，按标题切分，向量存在同一套 Postgres 的 pgvector 里；配齐重排后先召回再精选，放进这一轮提示
+- 🔍 **按需联网**：输入框旁打开「联网搜索」后，模型才看得到搜索工具，由它决定这一轮用不用；没配密钥时口播仍然可以生成
+- 📄 **口播导出 PDF**：用户要求导出时，模型调用 `export_pdf`，气泡下方出现下载链接；导出失败不会让已经写出的口播丢失
+- 🛡️ **边界写进提示**：系统提示限制在五个相处机制里，并拒绝诊疗、操控话术、关系去留等请求
+
+▶️ [**douyin-content-super-agent**](https://github.com/Xiaojing-511/douyin-content-super-agent) · 开源仓库
+🌐 [**在线体验**](http://82.156.15.201:3000) · 已部署的顾问
+
+---
+
 ## 🎮 your life story · 林间拾忆
 
 <p align="center">
@@ -176,6 +191,8 @@ AI 全栈工程师。我始终相信「代码是自我表达的一种媒介」�
 
 💬 [**评见**](https://github.com/Xiaojing-511/pingjian) - 把抖音评论导出读成总览、内容机会和评论明细
 
+🎙️ [**关系认知顾问**](https://github.com/Xiaojing-511/douyin-content-super-agent) - 给亲密关系认知类短视频创作者用的单会话口播顾问
+
 🐱 [**旅行小咪**](https://github.com/Xiaojing-511/travel-cat) - 微信小程序：喂养猫，等它自己出门寄回明信片（n8n 批量产图并入库）
 
 🍽️ [**吃什么**](https://github.com/Xiaojing-511/eatwhat) - 微信小程序：把想吃的记成清单，纠结时抽一个
@@ -204,7 +221,7 @@ AI 全栈工程师。我始终相信「代码是自我表达的一种媒介」�
 
 ## 🧰 技术栈
 
-TypeScript · JavaScript · Python · Vue 3 · React · FastAPI · Node.js · Manifest V3 浏览器扩展 · 微信小程序 · qiankun 微前端 · Vite · 腾讯云 TCB 云开发 · n8n · DeepSeek · Canvas 游戏 / Web Audio · Coding Agent / AI 编程
+TypeScript · JavaScript · Python · Vue 3 · React · Next.js · FastAPI · Node.js · LangGraph · pgvector · Manifest V3 浏览器扩展 · 微信小程序 · qiankun 微前端 · Vite · 腾讯云 TCB 云开发 · n8n · DeepSeek · Canvas 游戏 / Web Audio · Coding Agent / AI 编程
 
 ---
 
