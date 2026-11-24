@@ -35,7 +35,7 @@ AI 全栈工程师。我始终相信「代码是自我表达的一种媒介」�
 - ☁️ **每人只看见自己的**：邮箱验证码登录，评论、任务和报告放在 CloudBase，按用户隔开
 
 ▶️ [**pingjian**](https://github.com/Xiaojing-511/pingjian) · 开源仓库
-🌐 [**在线使用**](https://pingjian.rachelzhang.cn)
+🌐 [**在线使用**](http://82.156.15.201)
 
 ---
 
