@@ -35,7 +35,7 @@ About Me: https://about-me-website-7qw.pages.dev/
 - ☁️ **Your library stays yours**: email-code login, comments, tasks, and reports on CloudBase, separated by account
 
 ▶️ [**pingjian**](https://github.com/Xiaojing-511/pingjian) · source repo
-🌐 [**Open the app**](https://pingjian.rachelzhang.cn)
+🌐 [**Open the app**](http://82.156.15.201)
 
 ---
 
